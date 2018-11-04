@@ -1,0 +1,1 @@
+For reduce program, I got a speedup around 1.75 for 16 threads.
